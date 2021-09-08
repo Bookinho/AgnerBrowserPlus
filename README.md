@@ -1,6 +1,7 @@
 # AgnerBrowserPlus
 Versão melhorada do navegador de celulafone do Luiz Agner Escuro
 
+Creditos: https://www.youtube.com/channel/UCI9J4UNaNzSoeaVxYMyAn2A
 Para baixar o Aplicativo, click no link:
 
 ![Alt text](https://i.ibb.co/0ry8Mfq/agnerbrowser.png "Optional title")
