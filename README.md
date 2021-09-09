@@ -1,4 +1,4 @@
-# AgnerBrowser + (Versão 2.0)
+# AgnerBrowserPlus (Versão 2.0)
 Versão melhorada do navegador de celulafone do Luiz Agner Escuro
 
 # Creditos: https://www.youtube.com/channel/UCI9J4UNaNzSoeaVxYMyAn2A
